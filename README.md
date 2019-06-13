@@ -1,2 +1,3 @@
 # PHP-Scribblings
-Repository created for storing my coding samples, which I used for learning PHP
+Repository created for storing my PHP coding samples:
+.........Just wild Scribblings.........
